@@ -1,2 +1,2 @@
 # Logistic Regression Exercises
-Exercises for DataBootcamp Week 5 Day 2
+Build a Logistic Regression model with Python.
